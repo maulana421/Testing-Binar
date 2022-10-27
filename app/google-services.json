@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "575084669519",
+    "project_id": "challangech3",
+    "storage_bucket": "challangech3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575084669519:android:b134960c6456c72affd83a",
+        "android_client_info": {
+          "package_name": "com.solanacode.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575084669519-0s0rdgg442uphj3b3tmce0pabj9m2dqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzVn93EoUo7xQvAWJ3-FklyoLYyxrIffI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575084669519-0s0rdgg442uphj3b3tmce0pabj9m2dqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
